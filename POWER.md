@@ -2,7 +2,7 @@
 name: "ux-copywriting"
 displayName: "UX Copywriting"
 description: "A specialized agent for UX copywriting that helps craft clear, consistent, and intent-driven copy for user interfaces. It follows voice and tone guidelines, ensures terminology consistency, checks for clarity and scannability, and produces design-ready copy at speed and scale."
-keywords: ["ui", "design", "code", "layout", "mockup", "frame", "component", "frontend"]
+keywords: ["ux", "copywriting", "ui copy", "error messages", "microcopy", "accessibility", "tone of voice"]
 author: "SSO UX Design"
 ---
 
